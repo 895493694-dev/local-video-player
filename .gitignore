@@ -1,0 +1,30 @@
+## .NET / Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+
+## mpv / FFmpeg runtime binaries (downloaded separately)
+libs/
+runtime/
+
+## OS
+Thumbs.db
+Desktop.ini
+.DS_Store
